@@ -1,7 +1,7 @@
-# The Classics
-##### [August Comte](https://en.wikipedia.org/wiki/Auguste_Comte)
-##### Karl Marx
-- ##### Georg Simmel
-- ##### Ferdinand Tönnies
-  + ##### Gabriel Tarde
-  + ##### Émile Durkheim
+# the classics
+##### [August Comte](https://ivdanila.github.io/sociological-theory/comte.html)
+##### Karl Marx 
+##### Georg Simmel
+##### Ferdinand Tönnies
+##### Gabriel Tarde
+##### Émile Durkheim
