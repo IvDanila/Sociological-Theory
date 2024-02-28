@@ -1,5 +1,5 @@
 # The Classics
 
-  -[### August Comte](https://en.wikipedia.org/wiki/Auguste_Comte)
+  - #### [August Comte](https://en.wikipedia.org/wiki/Auguste_Comte)
   
-  - ### Karl Marx
+  - #### Karl Marx
