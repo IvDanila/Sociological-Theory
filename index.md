@@ -1,6 +1,6 @@
 ---
 ### The Classics:
-##### August Comte
+##### [August Comte](https://ivdanila.github.io/sociological-theory/comte.md)
 ##### Karl Marx 
 ##### Georg Simmel
 ##### Ferdinand Tönnies
