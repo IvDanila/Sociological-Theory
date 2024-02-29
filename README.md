@@ -1,4 +1,4 @@
-# the classics
+## the classics
 ##### [August Comte](https://ivdanila.github.io/sociological-theory/comte.html)
 ##### Karl Marx 
 ##### Georg Simmel
