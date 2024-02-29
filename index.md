@@ -3,5 +3,5 @@
 ##### Karl Marx 
 ##### Georg Simmel
 ##### Ferdinand Tönnies
-##### [Gabriel Tarde](https://ivdanila.github.io/sociological-theory/tarde.html)
+##### [Gabriel Tarde](https://ivdanila.github.io/sociological-theory/tarde/tarde.html)
 ##### Émile Durkheim
