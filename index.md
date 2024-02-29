@@ -1,4 +1,3 @@
----
 ### The Classics:
 ##### [August Comte](https://ivdanila.github.io/sociological-theory/comte.html)
 ##### Karl Marx 
